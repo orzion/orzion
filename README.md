@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm orzion
 
-<!--
-**orzion/orzion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a practical engineering student and programmer, passionate about technology and development.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **HTML**
+- **CSS**
+- **Vanilla JavaScript (ES6)**
+- **C#**
+- **C**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learning & Interests
+I enjoy building projects and expanding my knowledge in both frontend and backend technologies.
+
+---
+
+Feel free to check out my repositories and follow my progress!
