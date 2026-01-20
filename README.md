@@ -1,6 +1,6 @@
 # 👋 Hi, I'm orzion
 
-I am a practical engineering student and programmer, passionate about technology and development.
+I am a practical softwer engineer student, passionate about technology and development.
 
 ## 🛠️ Skills
 - **HTML**
