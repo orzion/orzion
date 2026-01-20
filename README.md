@@ -7,7 +7,6 @@ I am a practical engineering student and programmer, passionate about technology
 - **CSS**
 - **Vanilla JavaScript (ES6)**
 - **C#**
-- **C**
 - **Python**
 - **nodejs**
 
