@@ -9,6 +9,7 @@ I am a practical softwere engineer student, passionate about technology and deve
 - **C#**
 - **Python**
 - **nodejs**
+- **reactjs**
 
 ## 📚 Learning & Interests
 I enjoy building projects and expanding my knowledge in both frontend and backend technologies.
